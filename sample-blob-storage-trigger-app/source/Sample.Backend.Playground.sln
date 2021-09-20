@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{E1C7833B-C761-4F40-8A18-C73360585F46}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SampleBlobTrigger", "src\SampleBlobTrigger\SampleBlobTrigger.csproj", "{65BAA30E-33C9-45A2-8F94-48A8C5FAE152}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65BAA30E-33C9-45A2-8F94-48A8C5FAE152}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65BAA30E-33C9-45A2-8F94-48A8C5FAE152}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65BAA30E-33C9-45A2-8F94-48A8C5FAE152}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65BAA30E-33C9-45A2-8F94-48A8C5FAE152}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{65BAA30E-33C9-45A2-8F94-48A8C5FAE152} = {E1C7833B-C761-4F40-8A18-C73360585F46}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB8360E6-93CE-4472-B2C2-70BFB045B754}
+	EndGlobalSection
+EndGlobal
