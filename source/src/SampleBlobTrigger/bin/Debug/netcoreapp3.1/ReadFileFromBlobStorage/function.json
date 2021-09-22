@@ -1,0 +1,15 @@
+{
+  "generatedBy": "Microsoft.NET.Sdk.Functions-3.0.13",
+  "configurationSource": "attributes",
+  "bindings": [
+    {
+      "type": "blobTrigger",
+      "connection": "BlobConnectionString",
+      "path": "%BlobContainerName%/{name}",
+      "name": "blobFileContents"
+    }
+  ],
+  "disabled": false,
+  "scriptFile": "../bin/SampleBlobTrigger.dll",
+  "entryPoint": "FunctionAppBlobStorageTrigger.Functions.ReadBlobStorageFileFunction.ReadFileFromBlobStorage"
+}

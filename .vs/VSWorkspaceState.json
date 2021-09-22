@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\sample-blob-storage-trigger-app",
+    "\\sample-blob-storage-trigger-app\\source",
+    "\\sample-blob-storage-trigger-app\\source\\src",
+    "\\sample-blob-storage-trigger-app\\source\\src\\SampleBlobTrigger"
+  ],
+  "SelectedNode": "\\sample-blob-storage-trigger-app\\source\\src\\SampleBlobTrigger\\SampleBlobTrigger.csproj",
+  "PreviewInSolutionExplorer": false
+}

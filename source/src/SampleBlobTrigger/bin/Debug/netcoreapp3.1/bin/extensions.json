@@ -1,0 +1,6 @@
+{
+  "extensions":[
+    { "name": "AzureStorage", "typeName":"Microsoft.Azure.WebJobs.Extensions.Storage.AzureStorageWebJobsStartup, Microsoft.Azure.WebJobs.Extensions.Storage, Version=4.0.5.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35"},
+    { "name": "Startup", "typeName":"FunctionAppBlobStorageTrigger.Startup, SampleBlobTrigger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"}
+  ]
+}

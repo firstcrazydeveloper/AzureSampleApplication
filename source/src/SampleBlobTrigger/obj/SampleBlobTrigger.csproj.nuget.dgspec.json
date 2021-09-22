@@ -1,0 +1,100 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Projects\\Ecolab3D\\Source\\Repos\\Ecolab.Ecolab3D.API-POC\\source\\src\\SampleBlobTrigger\\SampleBlobTrigger.csproj": {}
+  },
+  "projects": {
+    "C:\\Projects\\Ecolab3D\\Source\\Repos\\Ecolab.Ecolab3D.API-POC\\source\\src\\SampleBlobTrigger\\SampleBlobTrigger.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\Ecolab3D\\Source\\Repos\\Ecolab.Ecolab3D.API-POC\\source\\src\\SampleBlobTrigger\\SampleBlobTrigger.csproj",
+        "projectName": "SampleBlobTrigger",
+        "projectPath": "C:\\Projects\\Ecolab3D\\Source\\Repos\\Ecolab.Ecolab3D.API-POC\\source\\src\\SampleBlobTrigger\\SampleBlobTrigger.csproj",
+        "packagesPath": "C:\\Users\\kumara7\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\Ecolab3D\\Source\\Repos\\Ecolab.Ecolab3D.API-POC\\source\\src\\SampleBlobTrigger\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kumara7\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "BH.Swashbuckle.AspNetCore.AzureFunctions": {
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "Ensure.That": {
+              "target": "Package",
+              "version": "[10.1.0, )"
+            },
+            "Microsoft.Azure.Cosmos": {
+              "target": "Package",
+              "version": "[3.21.0, )"
+            },
+            "Microsoft.Azure.Management.AppService.Fluent": {
+              "target": "Package",
+              "version": "[1.38.0, )"
+            },
+            "Microsoft.Azure.WebJobs.Extensions.Storage": {
+              "target": "Package",
+              "version": "[4.0.5, )"
+            },
+            "Microsoft.NET.Sdk.Functions": {
+              "target": "Package",
+              "version": "[3.0.13, )"
+            },
+            "Parquet.Net": {
+              "target": "Package",
+              "version": "[3.9.0, )"
+            },
+            "Polly": {
+              "target": "Package",
+              "version": "[7.2.2, )"
+            },
+            "Swashbuckle.AspNetCore.AzureFunctions": {
+              "target": "Package",
+              "version": "[2.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

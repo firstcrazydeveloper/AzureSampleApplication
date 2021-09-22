@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = SampleBlobTrigger.Tests
+build_property.ProjectDir = C:\Projects\SampleLearning\AzureSampleApplication\sample-blob-storage-trigger-app\source\tests\SampleBlobTrigger.Tests\

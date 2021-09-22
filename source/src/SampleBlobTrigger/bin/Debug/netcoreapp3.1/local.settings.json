@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "BlobContainerName": "rawinsights",
+    "BlobConnectionString": "DefaultEndpointsProtocol=https;AccountName=ecolab3dstorage;AccountKey=K6d4ffn6cXsH+yFz0fYiKgkCmVIjcy/h49bJMm544Kva30ygx1QWXEjRdjI+QMuO3LOSEB5Uc0m+A1QPCDe87Q==;EndpointSuffix=core.windows.net"
+  }
+}
